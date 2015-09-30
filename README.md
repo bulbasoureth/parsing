@@ -1,5 +1,5 @@
 # parsing
-parsing in linux
+parsing in linux, build a parser for the following grammar definitions
 
 
 program ::= print term ; program
